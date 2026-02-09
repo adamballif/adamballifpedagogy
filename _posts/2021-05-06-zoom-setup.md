@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Zoom Teaching Setup
-date:   2026-02-6 11:57:46 -0700
+date:   2021-05-06 11:57:46 -0700
 categories: technology
 tags: [technology]
 excerpt_separator: <!--more-->
