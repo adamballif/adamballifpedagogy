@@ -2,7 +2,8 @@
 layout: post
 title:  Using MIDI Files for Practicing
 date:   2021-12-02 09:38:16 -0700
-categories: 
+categories: technology
+tags: [technology]
 excerpt_separator: <!--more-->
 ---
 
@@ -38,12 +39,12 @@ It doesn’t allow for specific looped areas of playback like you can with Garag
 
 ![MIDIPlayerX][image-6]
 
-[image-1]: /assets/midi-image-1.jpg
-[image-2]: /assets/midi-image-2.jpg
-[image-3]: /assets/midi-image-3.jpg
-[image-4]: /assets/midi-image-4.jpg
-[image-5]: /assets/midi-image-5.jpg
-[image-6]: /assets/midi-image-6.jpg
+[image-1]: /adamballifpedagogy/assets/midi-image-1.jpg
+[image-2]: /adamballifpedagogy/assets/midi-image-2.jpg
+[image-3]: /adamballifpedagogy/assets/midi-image-3.jpg
+[image-4]: /adamballifpedagogy/assets/midi-image-4.jpg
+[image-5]: /adamballifpedagogy/assets/midi-image-5.jpg
+[image-6]: /adamballifpedagogy/assets/midi-image-6.jpg
 
 
 

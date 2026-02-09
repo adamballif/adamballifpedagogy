@@ -85,21 +85,21 @@ Lastly, each clarinet is play tested before it leaves the factory. Thank you to 
 
 
 
-[image-1]: /assets/selmer-1.jpg
-[image-2]: /assets/selmer-2.jpg
-[image-3]: /assets/selmer-3.jpg
-[image-4]: /assets/selmer-4.jpg
-[image-5]: /assets/selmer-5.jpg
-[image-6]: /assets/selmer-6.jpg
-[image-7]: /assets/selmer-7.jpg
-[image-8]: /assets/selmer-8.jpg
-[image-9]: /assets/selmer-9.jpg
-[image-10]: /assets/selmer-10.jpg
-[image-11]: /assets/selmer-11.jpg
-[image-12]: /assets/selmer-12.jpg
-[image-13]: /assets/selmer-13.jpg
-[image-14]: /assets/selmer-14.jpg
-[image-15]: /assets/selmer-15.jpg
+[image-1]: /adamballifpedagogy/assets/selmer-1.jpg
+[image-2]: /adamballifpedagogy/assets/selmer-2.jpg
+[image-3]: /adamballifpedagogy/assets/selmer-3.jpg
+[image-4]: /adamballifpedagogy/assets/selmer-4.jpg
+[image-5]: /adamballifpedagogy/assets/selmer-5.jpg
+[image-6]: /adamballifpedagogy/assets/selmer-6.jpg
+[image-7]: /adamballifpedagogy/assets/selmer-7.jpg
+[image-8]: /adamballifpedagogy/assets/selmer-8.jpg
+[image-9]: /adamballifpedagogy/assets/selmer-9.jpg
+[image-10]: /adamballifpedagogy/assets/selmer-10.jpg
+[image-11]: /adamballifpedagogy/assets/selmer-11.jpg
+[image-12]: /adamballifpedagogy/assets/selmer-12.jpg
+[image-13]: /adamballifpedagogy/assets/selmer-13.jpg
+[image-14]: /adamballifpedagogy/assets/selmer-14.jpg
+[image-15]: /adamballifpedagogy/assets/selmer-15.jpg
 
 
 
