@@ -55,9 +55,9 @@ Here is my process for adjusting the tempo of YouTube tracks:
 [^2]: Not all audio editors are capable of changing the audio without changing the pitch. Studio One and Pro Tools are able to do this, if the audio file is linked to the project tempo. A few free options include Audacity or GarageBand.
 
 
-[image-1]: /assets/youtube-1.jpg
-[image-2]: /assets/youtube-2.jpg
-[image-3]: /assets/youtube-3.jpg
+[image-1]: /adamballifpedagogy/assets/youtube-1.jpg
+[image-2]: /adamballifpedagogy/assets/youtube-2.jpg
+[image-3]: /adamballifpedagogy/assets/youtube-3.jpg
 
 
 
