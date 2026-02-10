@@ -79,7 +79,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   # social_links:
    # github: adamsappletech
-   navigation:
+  # navigation:
     # - title: Video
     #   url: "/video"
    #  - title: Podcast
@@ -88,8 +88,8 @@ plainwhite:
     #   url: "/categories"
    #  - title: Apps
     #   url: "/apps"
-     - title: "About"
-      url: "/adamballifpedagogy/about.markdown"
+    # - title: "About"
+    #  url: "/about.markdown"
   condensed_mobile:
     - home
     - post
