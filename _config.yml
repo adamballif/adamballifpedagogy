@@ -69,7 +69,7 @@ giscus:
 
 
 plainwhite:
-# portfolio_image:  "adamballifpedagogy/assets/clarinetclip.png"
+portfolio_image:  "/adamballifpedagogy/assets/clarinetclip.png"
  # disqus_shortname: aballif
  # sitemap: true
   search: true
@@ -79,7 +79,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   # social_links:
    # github: adamsappletech
-  # navigation:
+   navigation:
     # - title: Video
     #   url: "/video"
    #  - title: Podcast
@@ -88,8 +88,8 @@ plainwhite:
     #   url: "/categories"
    #  - title: Apps
     #   url: "/apps"
-    # - title: "Contact"
-    #  url: "adamballifpedagogy/about"
+     - title: "About"
+      url: "/adamballifpedagogy/about.markdown"
   condensed_mobile:
     - home
     - post

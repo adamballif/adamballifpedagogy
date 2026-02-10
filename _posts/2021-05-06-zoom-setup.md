@@ -42,7 +42,7 @@ Become a member
 - Keep and view any other notes or windows for teaching references.
 
 
-[image-1]: /assets/zoom-setup.jpg
+[image-1]: /adamballifpedagogy/assets/zoom-setup.jpg
 
 {% include social-media-share.html %}
 {% include comments.html %}
