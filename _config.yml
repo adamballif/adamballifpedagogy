@@ -70,9 +70,9 @@ giscus:
 
 
 plainwhite:
-portfolio_image:  "/assets/clarinetclip.png"
+  portfolio_image:  "assets/clarinetclip.jpg"
  # disqus_shortname: aballif
- sitemap: true
+ # sitemap: true
   search: true
   dark_mode: true
   name: Adam Ballif 
@@ -80,13 +80,14 @@ portfolio_image:  "/assets/clarinetclip.png"
   date_format: "%b %-d, %Y"
   # social_links:
    # github: adamsappletech
-  # navigation:
-    # - title: Video
-    #   url: "/video"
+  navigation:
+    - title: "Tags"
+      url: "/categories"
+    - title: About
+      url: "/about"
    #  - title: Podcast
     #   url: "/podcast"
-   #  - title: "Tags"
-    #   url: "/categories"
+    
    #  - title: Apps
     #   url: "/apps"
     # - title: "About"
