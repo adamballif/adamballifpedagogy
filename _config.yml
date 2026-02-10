@@ -28,8 +28,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  adamballif
 
 # Build settings
-# theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll
+theme: plainwhite
+
+# remote_theme: samarsault/plainwhite-jekyll
 show_excerpts: true
 # disqus_shortname: aballif
 # searchResultTemplate: '<div><a href="{url}"><h1>{title}</h1></a><span>{date}</span></div>',
