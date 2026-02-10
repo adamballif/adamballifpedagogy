@@ -70,7 +70,7 @@ giscus:
 
 
 plainwhite:
- portfolio_image:  "adamballifpedagogy/assets/clarinetclip.png"
+# portfolio_image:  "adamballifpedagogy/assets/clarinetclip.png"
  # disqus_shortname: aballif
  # sitemap: true
   search: true
