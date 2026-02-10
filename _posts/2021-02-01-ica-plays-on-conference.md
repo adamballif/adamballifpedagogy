@@ -138,3 +138,5 @@ Beethoven 6, mvt. 3 — start the descending arpeggio, with double Too to get th
 
 Franz Klein staccato etudes
 
+{% include social-media-share.html %}
+{% include comments.html %}

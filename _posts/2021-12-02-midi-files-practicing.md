@@ -47,8 +47,8 @@ It doesn’t allow for specific looped areas of playback like you can with Garag
 [image-6]: /adamballifpedagogy/assets/midi-image-6.jpg
 
 
-
-
+{% include social-media-share.html %}
+{% include comments.html %}
 
 
 

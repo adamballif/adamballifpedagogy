@@ -60,7 +60,8 @@ Here is my process for adjusting the tempo of YouTube tracks:
 [image-3]: /adamballifpedagogy/assets/youtube-3.jpg
 
 
-
+{% include social-media-share.html %}
+{% include comments.html %}
 
 
 

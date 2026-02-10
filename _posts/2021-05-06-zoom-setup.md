@@ -44,5 +44,6 @@ Become a member
 
 [image-1]: /adamballifpedagogy/assets/zoom-setup.jpg
 
-
+{% include social-media-share.html %}
+{% include comments.html %}
 

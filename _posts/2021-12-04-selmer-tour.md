@@ -103,8 +103,8 @@ Lastly, each clarinet is play tested before it leaves the factory. Thank you to 
 
 
 
-
-
+{% include social-media-share.html %}
+{% include comments.html %}
 
 
 
