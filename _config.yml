@@ -72,7 +72,7 @@ giscus:
 plainwhite:
 portfolio_image:  "/assets/clarinetclip.png"
  # disqus_shortname: aballif
- # sitemap: true
+ sitemap: true
   search: true
   dark_mode: true
   name: Adam Ballif 
