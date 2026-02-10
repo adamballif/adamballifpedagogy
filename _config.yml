@@ -85,6 +85,8 @@ plainwhite:
       url: "/adamballifpedagogy/categories"
     - title: About
       url: "/adamballifpedagogy/about"
+    - title: Subscribe (RSS)
+      url: /feed.xml
    #  - title: Podcast
     #   url: "/podcast"
     
