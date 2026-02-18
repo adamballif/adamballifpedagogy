@@ -52,6 +52,3 @@ To download Clarinet Repertoire for your iPhone or iPad [click here for the App 
 
 {% include comments.html %}
 
-
-
-#pedagogyblog/drafts
