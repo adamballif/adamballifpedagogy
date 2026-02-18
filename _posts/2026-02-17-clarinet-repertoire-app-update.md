@@ -7,8 +7,6 @@ tags: [apps]
 excerpt_separator: <!--more-->
 ---
 
-# Clarinet Repertoire App Update
-
 [Clarinet Repertoire](https://apps.apple.com/us/app/clarinet-repertoire/id1583073221) is my app that was a result of my dissertation project, which was to compile a catalog of clarinet teaching repertoire. The latest update came out this week and adds some new features and polish. <!--more-->
 
 Clarinet Repertoire is a database of over 1200 pieces of clarinet music. This catalog represents some of the more common works for clarinetists from the Classical period until today. The database may be filtered using the blue buttons indicating the time period and genre. New works will be added over time, and users may submit new pieces to the developer for inclusion in future updates. 
