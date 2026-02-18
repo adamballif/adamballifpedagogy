@@ -23,9 +23,9 @@ email: ballifa@byui.edu
 description: >- # this means to ignore newlines until "baseurl:"
  Dr. Adam Ballif holds a Doctor of Musical Arts and a Master of Music degree in clarinet performance from Arizona State University. Dr. Ballif joined the faculty of Brigham Young University-Idaho in 2012. 
 baseurl: /adamballifpedagogy # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://adamballif.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: adamballif
-# github_username:  adamballif
+# github_username:  adamballif`
 
 # Build settings
 # theme: plainwhite
