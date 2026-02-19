@@ -64,7 +64,7 @@ giscus:
   category-id:         "DIC_kwDORKk0Vc4C2H20"
   mapping:             "pathname"
   reaction-enabled:    "1"
-  theme:               "dark_dimmed"
+  theme:               "light"
   crossorigin:         "anonymous"
 
 
@@ -74,7 +74,7 @@ plainwhite:
  # disqus_shortname: aballif
  # sitemap: true
   search: true
-  dark_mode: false
+  dark_mode: true
   name: Adam Ballif 
   tagline: Pedagogy Blog
   date_format: "%b %-d, %Y"
