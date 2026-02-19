@@ -64,7 +64,7 @@ giscus:
   category-id:         "DIC_kwDORKk0Vc4C2H20"
   mapping:             "pathname"
   reaction-enabled:    "1"
-  theme:               "light"
+  theme:               "dark_dimmed"
   crossorigin:         "anonymous"
 
 
