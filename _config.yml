@@ -74,7 +74,7 @@ plainwhite:
  # disqus_shortname: aballif
  # sitemap: true
   search: true
-  dark_mode: false
+  dark_mode: true
   name: Adam Ballif 
   tagline: Pedagogy Blog
   date_format: "%b %-d, %Y"
